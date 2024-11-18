@@ -1,0 +1,1001 @@
+location_id,Location,Temp_mes,Temp_Unit
+LOC-0738,Madamba,Fahrenheit,38.95
+LOC-4705,Horní Jiřetín,Kelvin,-3.17
+LOC-4256,Armenia,Fahrenheit,-36.26
+LOC-1711,Benito Juarez,Fahrenheit,27.49
+LOC-7276,Sukacai Tengah,Fahrenheit,-11.93
+LOC-2979,Suru,Fahrenheit,26.54
+LOC-1042,Tagkawayan Sabang,Celsius,-22.68
+LOC-8163,Shelabolikha,Kelvin,49.29
+LOC-3511,Gamut,Fahrenheit,2.41
+LOC-3884,Hyesan-dong,Kelvin,-38.29
+LOC-7245,Kożuchów,Fahrenheit,13.64
+LOC-7270,Dajalorong,Kelvin,11.93
+LOC-5735,Mang’it Shahri,Fahrenheit,-13.78
+LOC-3671,Changbai,Fahrenheit,26.91
+LOC-2569,Meixi,Kelvin,13.93
+LOC-5023,Gazimurskiy Zavod,Celsius,
+LOC-1668,Rîbniţa,Kelvin,-17.51
+LOC-4403,Ponte,Celsius,-36.04
+LOC-5172,Santa Cruz,Kelvin,38.86
+LOC-5088,Alīpur,Fahrenheit,-38.57
+LOC-1672,Oxelösund,Fahrenheit,6.29
+LOC-2553,Võhma,Kelvin,-38.73
+LOC-2184,Batasan Bata,Kelvin,30.85
+LOC-0268,Sardoal,Fahrenheit,4.67
+LOC-9327,Zdice,Fahrenheit,0.74
+LOC-2775,Cirumput,Fahrenheit,-20.15
+LOC-3534,Gangjia,Celsius,34.69
+LOC-4406,Maikawada,Kelvin,-6.4
+LOC-9375,Kuasha,Kelvin,23.63
+LOC-1444,Sanshengyuan,Celsius,-33.17
+LOC-9183,Malveira,Celsius,36.88
+LOC-1258,Krasnodon,Fahrenheit,-29.29
+LOC-2524,Monamon,Kelvin,-30.45
+LOC-0013,Tālīn,Kelvin,-31.35
+LOC-1922,Celestynów,Fahrenheit,-12.71
+LOC-2994,Blainville,Celsius,-20.19
+LOC-0999,Yangdun,Fahrenheit,35.42
+LOC-7521,Zengguang,Kelvin,25.96
+LOC-1876,,Celsius,45.44
+LOC-7737,Meixian,Fahrenheit,-22.6
+LOC-9903,Ilići,Kelvin,
+LOC-1569,Jurm,Fahrenheit,
+LOC-2615,Oslo,Celsius,45.44
+,Wudabao,Fahrenheit,46.52
+LOC-0598,Sankt Andrä-Höch,Kelvin,6.91
+LOC-7175,Mountain View,Fahrenheit,-2.35
+LOC-5071,Pushkinskiye Gory,Kelvin,-14.92
+LOC-9474,Tejar,Kelvin,5.05
+LOC-2331,Garnich,Kelvin,-24.7
+LOC-9339,Giporlos,Kelvin,45.64
+LOC-7058,Bus’k,Fahrenheit,-8.36
+LOC-6738,Liborina,Kelvin,11.04
+LOC-6822,Gostivar,Fahrenheit,-49.54
+LOC-4677,Ghayl Bā Wazīr,Kelvin,7.79
+LOC-7045,,Kelvin,45.75
+,Storvreta,Fahrenheit,-9.57
+LOC-4402,Lazarat,Fahrenheit,-19.82
+LOC-2921,Cancela,Kelvin,-45.9
+LOC-3937,Angono,Fahrenheit,30.33
+LOC-0786,Lindavista,Fahrenheit,17.35
+LOC-2735,Songdong,Kelvin,-14.11
+LOC-9126,Ituiutaba,,-28.3
+LOC-0558,Ongi,Kelvin,48.93
+LOC-2755,Portela,Celsius,-38.95
+LOC-8592,Garhi Yāsīn,Fahrenheit,0.72
+LOC-3656,Lañgub,Kelvin,39.57
+LOC-8397,Fort Lauderdale,Fahrenheit,4.23
+LOC-1868,,Fahrenheit,1.14
+LOC-4253,Xarardheere,Kelvin,43.12
+LOC-5286,Nemours,Celsius,-27.85
+LOC-5367,Urzhar,Fahrenheit,-35.26
+LOC-4596,‘Abs,Fahrenheit,-30.38
+LOC-1195,Kortkeros,Fahrenheit,35.84
+LOC-2657,Wola Sernicka,Kelvin,-49.1
+LOC-6114,Mtubatuba,Celsius,-29.51
+LOC-3486,Dallas,Kelvin,-33.57
+LOC-0873,Taibao,Kelvin,19.74
+LOC-1268,Vitry-le-François,Kelvin,-21.91
+LOC-9089,Belogorsk,Celsius,-45.54
+,Deder,Celsius,15.27
+LOC-4711,Port-à-Piment,Fahrenheit,-14.58
+LOC-5640,Landskrona,Celsius,21.46
+LOC-6766,Xujia,Kelvin,-24.02
+,Tadine,Celsius,26.35
+LOC-2702,Oinoússes,Fahrenheit,-18.43
+LOC-1338,Tawala,Kelvin,35.99
+LOC-9211,Salt Lake City,Kelvin,-16.78
+LOC-2176,Agdangan,Kelvin,9.23
+LOC-1358,Shiojiri,Celsius,-21.64
+LOC-8717,Fovissste,Fahrenheit,-24.8
+LOC-5135,Karangsonojabon,Fahrenheit,13.26
+LOC-3064,Gunziying,Celsius,29.02
+LOC-2910,Egbe,Kelvin,-10.02
+LOC-0791,Yuetang,Celsius,28.65
+LOC-4241,Santa Rosa,Celsius,16.48
+LOC-3647,Muzi,Kelvin,27.29
+LOC-9189,Cilimus Kulon,Kelvin,-49.46
+LOC-4280,Pont-à-Mousson,Celsius,-48.93
+LOC-9422,Aco,Fahrenheit,14.07
+LOC-3129,Xiangshan,Fahrenheit,
+LOC-4149,Papetoai,Kelvin,-27.78
+LOC-4163,Komysh-Zorya,Celsius,45.18
+LOC-2552,Córdoba,Celsius,11.43
+LOC-5940,Hawassa,Fahrenheit,11.03
+LOC-5316,Banjar Triwangsakeliki,Celsius,-35.68
+LOC-7841,Chkalov,Kelvin,-31.88
+LOC-6821,Cinangsih Satu,Celsius,16.8
+LOC-6371,Oslo,Kelvin,-42.82
+LOC-0334,Yasothon,Celsius,8.12
+LOC-0930,Ganyesa,Kelvin,-39.37
+LOC-9061,Ukhta,Celsius,8.59
+LOC-9601,Crato,Kelvin,17.73
+LOC-4704,Blumbang,Celsius,-6.69
+LOC-5188,Amiens,Celsius,8.35
+LOC-4714,Huntsville,Fahrenheit,-27.83
+LOC-9527,Uppsala,Kelvin,-49.17
+LOC-0417,Hanyuan,Fahrenheit,
+LOC-9443,Xinxiang,Celsius,-6.4
+LOC-1601,Entradas,Kelvin,
+LOC-9673,Hörby,Kelvin,-19.44
+LOC-7606,Dongobesh,Kelvin,35.69
+LOC-2002,Gornyy,Kelvin,5.04
+LOC-2757,Blantyre,Kelvin,-49.77
+LOC-7420,,Kelvin,48.4
+LOC-1080,Khoyniki,Kelvin,41.7
+LOC-6943,Quận Sáu,Kelvin,12.38
+LOC-7966,Quanjiang,Celsius,
+LOC-5253,Quzi,Fahrenheit,-43.77
+LOC-0913,Sumanding,Celsius,34.03
+LOC-9905,Chuanxi,Celsius,18.7
+LOC-4055,Verkhniy Mamon,Celsius,25.82
+LOC-8846,,Kelvin,-7.06
+LOC-2183,At Taḩālif,,10.62
+LOC-9150,Zhengyangshan,Kelvin,-14.63
+LOC-1199,Spitak,Kelvin,-26.34
+LOC-5846,Faleula,Kelvin,39.42
+LOC-6414,Bystra,Celsius,-36.72
+LOC-1119,Dragash,Celsius,-10.24
+LOC-5112,Ngulakan,Kelvin,-30.6
+LOC-2490,Ewirgol,Kelvin,10.62
+LOC-3471,Gombangan,Fahrenheit,-15.38
+LOC-8165,Viñac,Kelvin,49.47
+LOC-6149,Energodar,Kelvin,-21.93
+LOC-5989,Banjar Timbrah,Kelvin,-2.99
+LOC-4143,Limenária,Kelvin,8.26
+LOC-4592,Kelo,Celsius,19.93
+,Nîmes,Fahrenheit,-19.8
+LOC-6958,Al Bīrah,Kelvin,-7.89
+LOC-5839,Lingdong,Kelvin,-3.61
+LOC-0647,Budapest,Fahrenheit,-45.73
+LOC-1613,Pa Bon,Fahrenheit,-0.05
+LOC-1347,Ḩadādah,,46.22
+LOC-8836,Vale de São Cosme,Celsius,24.64
+LOC-5929,Kuvandyk,Celsius,20.16
+LOC-2096,Huskvarna,Kelvin,-36.31
+LOC-4041,Gijon,Fahrenheit,-19.05
+LOC-3508,Hujra,Kelvin,-4.95
+LOC-2823,Chavães,Celsius,-14.09
+LOC-1202,Redange-sur-Attert,Celsius,0.38
+LOC-3688,Fukushima-shi,Celsius,0.41
+LOC-0817,Naifaru,Celsius,18.58
+LOC-0864,Gala,Fahrenheit,-36.1
+LOC-3743,Witbank,Kelvin,-30.83
+LOC-3305,Megalópoli,,6.2
+LOC-9570,Sondo,Kelvin,-38.85
+LOC-9891,Lisieux,Kelvin,
+LOC-2103,Linëvo,Celsius,31.8
+LOC-3669,Jacksonville,Celsius,-33.23
+LOC-6119,Jiuheyuan,Fahrenheit,11.65
+LOC-0508,Laranjeiras do Sul,,-12.61
+LOC-3332,Pniewy,Fahrenheit,34.47
+LOC-3145,Waldbredimus,Fahrenheit,16.06
+LOC-9105,San Isidro,Fahrenheit,14.08
+LOC-2921,Pangal Sur,Celsius,
+LOC-8690,Spitak,Celsius,43.13
+LOC-5509,Carson City,Fahrenheit,10.25
+LOC-1385,Minchinābād,Celsius,-32.76
+LOC-9649,Bayog,Kelvin,-20.41
+LOC-3963,Aghajari,Fahrenheit,21.76
+LOC-2782,La Vega,Fahrenheit,-48.36
+LOC-1172,Novyy Nekouz,Kelvin,-16.12
+LOC-5734,Lamego,Kelvin,41.18
+LOC-5739,Zhajin,Kelvin,47.08
+LOC-4969,Weston,Kelvin,
+LOC-7698,Mali Iđoš,Kelvin,-20.39
+LOC-7655,Dasht-e Archī,Kelvin,17.94
+LOC-7939,Podkamennaya Tunguska,Kelvin,48.33
+LOC-1360,Żelazków,Kelvin,45.23
+LOC-0222,San Jose,Fahrenheit,38.16
+LOC-2010,Mandala,Fahrenheit,-38.83
+LOC-1316,Llusco,Fahrenheit,-20.68
+LOC-1109,Tulungrejo,Kelvin,-38.79
+LOC-2927,Canutama,Celsius,5.94
+LOC-0131,Podosinovets,Kelvin,14.14
+LOC-5544,Gunungputri,Celsius,44.65
+LOC-5076,Gaojian,Fahrenheit,-37.57
+LOC-5800,Vila Boa do Bispo,Kelvin,28.79
+LOC-3722,Juwana,Kelvin,-43.51
+LOC-9702,Enskede,Celsius,-4.41
+LOC-4172,Castelo de Vide,Celsius,49.72
+LOC-3727,Skanör,Celsius,-39.8
+LOC-7036,Azteca,Kelvin,-11.42
+LOC-7759,Mariefred,Kelvin,37.76
+LOC-3644,Apalit,,-44.73
+LOC-0578,Kumba,Kelvin,-43.18
+LOC-8915,Chuantang,Celsius,5.87
+LOC-2975,Santa Rosa,Kelvin,44.72
+LOC-1530,Dvůr Králové nad Labem,Fahrenheit,-17.96
+LOC-7242,Sanzhou,Fahrenheit,9.15
+LOC-3659,Strasbourg,Fahrenheit,13.52
+LOC-9550,Suyo,Kelvin,-18.06
+LOC-9431,Kaulon,Fahrenheit,34.22
+LOC-4646,Xibei,Kelvin,
+LOC-3261,Khujirt,Fahrenheit,19.86
+LOC-6669,Ponyri Vtoryye,Kelvin,33.63
+LOC-2555,Bouças,Celsius,11.83
+LOC-2530,Papelón,Fahrenheit,14.72
+LOC-5563,Vila Chã do Monte,Kelvin,43.73
+LOC-6791,Novo,Kelvin,7.95
+,Huage,Fahrenheit,-41.23
+LOC-0720,Puolanka,Celsius,40.06
+LOC-5054,Dagang,Celsius,-22.04
+LOC-2415,Kurayyimah,Celsius,34.44
+LOC-4868,Kurów,Celsius,7.27
+LOC-7011,El Escanito,Celsius,46.04
+LOC-6632,Vyshniy Volochëk,Kelvin,14.13
+LOC-0219,Anopog,Celsius,23.56
+LOC-1616,Ar Ruḩaybah,Celsius,12.77
+LOC-1698,Xi’an,Kelvin,27.21
+LOC-9690,Loangmaka,Fahrenheit,-26.06
+LOC-8008,Vidago,Fahrenheit,27.66
+LOC-6616,Rochefort,Fahrenheit,47.02
+LOC-5379,Xufu,Fahrenheit,-28.23
+LOC-1434,Anaheim,Fahrenheit,8.53
+LOC-9591,Şaqānis,Kelvin,-14.0
+,Jiahu,Celsius,-39.73
+LOC-2617,Moravče,Celsius,14.63
+LOC-4165,Hanchang,Celsius,-45.02
+LOC-9261,Qalqīlyah,Fahrenheit,33.31
+LOC-6542,Kachia,Celsius,48.25
+LOC-0167,,Celsius,-10.62
+LOC-9949,Yaroslavl,Celsius,18.28
+LOC-8817,Videira,Fahrenheit,-0.01
+LOC-2114,Bang Krathum,Celsius,-1.86
+LOC-2659,Jabonga,,-10.4
+LOC-4060,Viterbo,Kelvin,40.06
+LOC-8287,Valparaíso,Fahrenheit,1.5
+LOC-2669,Gamut,Fahrenheit,-9.13
+LOC-6484,Lityn,Fahrenheit,7.39
+LOC-4707,Pingxiang,Kelvin,19.93
+LOC-3539,Pindi Gheb,Celsius,-46.27
+LOC-2945,Şanā’,Kelvin,-22.53
+LOC-2944,Depok,Celsius,40.94
+LOC-5819,,Celsius,-29.08
+LOC-9418,Paluan,Celsius,43.75
+LOC-8197,Dębno,Celsius,42.29
+LOC-8381,Beltinci,Celsius,45.97
+LOC-5376,Tinaco,Fahrenheit,-12.51
+LOC-7327,Chrást,Celsius,6.21
+LOC-9588,Yumani,Fahrenheit,-27.37
+LOC-8986,Holguín,Fahrenheit,7.2
+LOC-7911,,Celsius,8.02
+LOC-4262,Porciúncula,Kelvin,-5.21
+LOC-2747,Condong,Kelvin,-2.3
+LOC-4210,Fier,Kelvin,0.16
+LOC-8438,Āsbe Teferī,Fahrenheit,-28.55
+LOC-9412,Voskehask,Celsius,8.67
+LOC-4500,,Celsius,-24.56
+LOC-4878,Jardinópolis,Kelvin,40.43
+LOC-6541,Zinder,Fahrenheit,-43.52
+LOC-9805,Avellaneda,Celsius,42.99
+,Xinlin,Celsius,44.69
+LOC-4753,Kristiansand S,Celsius,2.64
+LOC-4076,Santo Antônio do Monte,Fahrenheit,24.03
+LOC-4235,Düsseldorf,Celsius,-33.15
+LOC-3747,Hazlov,Fahrenheit,7.97
+,Deán Funes,Fahrenheit,-17.49
+LOC-2419,Akune,Fahrenheit,12.05
+LOC-6495,Diriá,Celsius,44.31
+LOC-4368,Huai’an,Kelvin,-8.45
+LOC-2522,Hammarö,Kelvin,-44.9
+LOC-8619,Chuanshan,Fahrenheit,34.2
+LOC-3926,Shanmuqiao,Celsius,38.69
+LOC-1259,San Carlos,Kelvin,-30.73
+LOC-5286,,Kelvin,-41.37
+LOC-5491,Alagoinhas,Celsius,12.45
+LOC-2883,Montecarlo,Kelvin,12.82
+LOC-7029,Shagang,Kelvin,1.08
+LOC-8848,Kými,Fahrenheit,43.16
+LOC-5680,Nässjö,Celsius,2.06
+LOC-6016,Qiman,Celsius,6.45
+LOC-0803,Wręczyca Wielka,Fahrenheit,38.13
+LOC-8259,Zliv,Celsius,-2.99
+LOC-4087,Ede,Fahrenheit,-29.41
+LOC-6913,Pointe-à-Pitre,Fahrenheit,-34.58
+LOC-1051,Pingtian,Celsius,7.13
+LOC-7551,Pakuranga,Fahrenheit,-12.81
+LOC-0759,,Fahrenheit,-37.71
+LOC-9405,Topol’noye,Celsius,3.98
+LOC-9198,Vorontsovka,Celsius,34.22
+LOC-0254,Menzel Bourguiba,Fahrenheit,49.39
+LOC-8604,Colatina,Celsius,-8.24
+LOC-3910,Mannheim,Kelvin,-12.36
+LOC-2591,Engel’-Yurt,Fahrenheit,-38.35
+LOC-5867,Lajas,Celsius,34.89
+LOC-5526,Cimuncang,Kelvin,-36.96
+LOC-7239,San Antonio Oeste,Kelvin,-48.25
+LOC-6921,Pulau Pinang,Fahrenheit,11.53
+LOC-2942,Qaryūt,Kelvin,6.38
+LOC-1606,Bogi,Fahrenheit,-40.25
+LOC-5968,Qigzhi,Kelvin,27.87
+LOC-9956,Goraj,Kelvin,-19.21
+LOC-9119,Nevers,Celsius,32.78
+LOC-5551,Zhongshanmen,Celsius,-2.08
+LOC-0221,Skole,Kelvin,-8.6
+LOC-3071,Nanxindian,Kelvin,-22.5
+LOC-6789,Mojkovac,Kelvin,40.49
+LOC-1496,Sanguanzhai,Fahrenheit,-19.08
+LOC-3844,Bells Corners,Fahrenheit,-39.9
+LOC-4009,Kui Buri,Fahrenheit,24.36
+LOC-5348,Glad,Celsius,-35.75
+LOC-8711,Kedungwringin,Kelvin,11.3
+LOC-1692,Yipeng,Kelvin,-21.01
+LOC-0062,Syanno,Celsius,
+LOC-7151,Tunbao,Celsius,
+LOC-3895,Nampicuan,Kelvin,-20.18
+LOC-2726,Bundoran,Celsius,
+LOC-1381,Makui,Kelvin,-0.09
+LOC-0787,Bastos,Fahrenheit,-6.95
+LOC-2415,,Fahrenheit,5.93
+LOC-3072,Mlaka pri Kranju,Kelvin,17.86
+LOC-8499,Xushangqiao,Fahrenheit,-29.8
+LOC-5862,Xiaozhen,Fahrenheit,11.68
+LOC-1332,Jixian,Kelvin,-13.98
+LOC-9352,Barbacena,Celsius,18.08
+LOC-7483,Klášter,Fahrenheit,11.02
+LOC-8608,Takahagi,Celsius,-4.88
+LOC-2183,Vohipaho,Kelvin,-19.04
+LOC-1042,Patao,Celsius,-14.41
+LOC-9590,Huangmu,Kelvin,-49.48
+LOC-5272,Sult,Celsius,25.17
+LOC-2950,Kajuru,,38.49
+LOC-1953,Szlachta,Fahrenheit,30.56
+LOC-3232,Vicuña Mackenna,Kelvin,18.09
+LOC-9753,Āstārā,Fahrenheit,23.13
+LOC-5608,Foso,Fahrenheit,19.82
+LOC-9965,Mölndal,Kelvin,39.28
+LOC-0012,Gapan,,12.17
+LOC-1185,Wuqu,Fahrenheit,-30.46
+LOC-9099,Makar’yev,Celsius,-40.66
+LOC-5820,Al Bīrah,Kelvin,36.17
+LOC-4606,Támara,Kelvin,14.76
+LOC-3818,Casisang,Kelvin,-32.29
+LOC-7165,Hauhena,Fahrenheit,-13.68
+LOC-2756,Łobodno,Celsius,19.81
+LOC-5711,Inya,Celsius,11.0
+LOC-9888,Ādaži,Celsius,44.38
+LOC-0401,Concordia,Fahrenheit,
+LOC-9518,Tempeh Tengah,Fahrenheit,-2.46
+LOC-5565,Cipaku,Kelvin,6.85
+LOC-5135,Falköping,Fahrenheit,31.41
+LOC-0831,Cordeiro,Fahrenheit,27.51
+LOC-7304,Mayskiy,Celsius,-3.94
+LOC-5005,Juripiranga,Celsius,7.16
+LOC-8459,Sindangsari,Fahrenheit,32.15
+LOC-0907,Taipingying,Kelvin,-2.37
+LOC-8450,Fazenda de Santa Cruz,Celsius,8.72
+LOC-9405,,Celsius,-44.88
+LOC-5563,Piteå,Fahrenheit,-37.38
+LOC-2859,Ledoy,Fahrenheit,-47.17
+LOC-7914,Itapecerica da Serra,Celsius,6.9
+LOC-8115,Sukamaju Kidul,Kelvin,-7.62
+LOC-3775,Nyima,Kelvin,-26.9
+LOC-8816,Orléans,Kelvin,-25.1
+LOC-6499,Malec,Celsius,-4.8
+LOC-0834,Cengang,Celsius,22.72
+LOC-0853,Lužani,Celsius,25.93
+LOC-8312,Punta Alta,Kelvin,35.24
+LOC-3405,Esparza,Kelvin,31.72
+LOC-6353,Norrköping,Kelvin,-4.24
+LOC-9312,Xiaomei,Fahrenheit,5.93
+LOC-3671,Brocēni,Kelvin,-44.98
+LOC-4513,Karátoulas,Kelvin,18.54
+,Jīwani,Celsius,39.67
+LOC-6773,Bastia,Celsius,-22.83
+LOC-4606,Tengjia,Kelvin,-41.72
+LOC-8221,Marseille,Kelvin,-25.9
+LOC-3158,Suining,Kelvin,-42.32
+LOC-4405,Castanheira,Celsius,29.09
+LOC-3500,White Rock,Kelvin,-6.54
+LOC-8647,Ust’-Katav,Fahrenheit,-18.15
+LOC-4886,Tobias Fornier,Celsius,38.95
+LOC-0872,Kuasha,Kelvin,34.12
+LOC-9331,Lianhe,Kelvin,-10.08
+LOC-9192,Créteil,Kelvin,-14.02
+LOC-9489,Goiânia,Kelvin,
+LOC-6953,Föglö,Kelvin,33.09
+LOC-9204,Charlottesville,Fahrenheit,-45.64
+LOC-0648,Ayapa,Fahrenheit,-46.64
+LOC-7520,Lubukgadang,Celsius,5.19
+LOC-4647,Karangsari,Kelvin,46.75
+LOC-1214,Caen,Kelvin,-11.0
+LOC-2917,Qingyun,Celsius,-40.93
+LOC-8415,Jinhua,Fahrenheit,23.23
+LOC-9497,Sidamukti,Celsius,-6.59
+LOC-2397,Tallaght,Celsius,-22.22
+LOC-1521,Camrose,Kelvin,-18.7
+LOC-3026,Kisarazu,Celsius,-40.0
+LOC-4877,Fushun,Kelvin,26.26
+LOC-3585,Sukorejo,Celsius,-34.43
+LOC-8722,Bamut,Fahrenheit,30.77
+LOC-0563,San Sebastián de Yalí,Fahrenheit,-30.26
+LOC-8840,Krasnogorskiy,Kelvin,37.37
+LOC-3478,Trajouce,Fahrenheit,-11.08
+LOC-3043,Villeneuve-la-Garenne,Kelvin,
+LOC-5960,Xuhui,Fahrenheit,-3.9
+LOC-7213,Hongshan,Kelvin,-29.87
+LOC-5876,Oklahoma City,Celsius,
+LOC-7216,Burbank,Celsius,17.7
+LOC-1826,Krásná Hora nad Vltavou,Fahrenheit,-4.9
+LOC-0558,,Fahrenheit,5.66
+LOC-8388,Hezuo,Celsius,-20.99
+LOC-6367,Nazaré,Kelvin,-6.72
+LOC-8920,Magatos,Celsius,-19.63
+LOC-9644,Takahata,Fahrenheit,11.18
+LOC-1448,Santa Maria,Fahrenheit,15.05
+LOC-0131,Shādegān,Celsius,-7.89
+LOC-4241,Cheremshan,Fahrenheit,38.9
+LOC-1527,Pajagan,Kelvin,-41.77
+LOC-6320,Karelichy,Fahrenheit,44.65
+LOC-5718,Pedro Betancourt,Fahrenheit,-7.31
+LOC-8576,Yacuiba,Fahrenheit,-2.95
+LOC-2423,Trablice,Celsius,-26.54
+LOC-0018,Edéa,Celsius,-43.11
+LOC-3402,Malakwāl,Kelvin,48.77
+LOC-6789,Punta de Piedra,Fahrenheit,44.31
+LOC-1896,Ivanivka,Fahrenheit,38.93
+LOC-6592,Parchowo,Celsius,3.99
+LOC-8806,Lumil,Kelvin,-41.42
+LOC-3164,Vavatenina,,-30.95
+LOC-3196,Delft,Kelvin,-35.53
+LOC-5407,Nezvěstice,Kelvin,41.08
+LOC-1321,Guilherand-Granges,Fahrenheit,-38.5
+LOC-1364,Foxrock,Celsius,-12.94
+LOC-4732,Caçapava do Sul,Celsius,-35.36
+LOC-7193,Ash Shaykh Zuwayd,Celsius,4.51
+LOC-7844,Pule,Kelvin,-49.01
+LOC-8436,Rosario,Celsius,4.42
+LOC-3828,Sindangkerta,Celsius,41.29
+LOC-0835,Carrigtwohill,Fahrenheit,34.73
+LOC-0722,Munggang,Celsius,-44.72
+LOC-2234,Emiliano Zapata,Kelvin,45.54
+LOC-1340,Butha-Buthe,Kelvin,23.16
+LOC-5688,Shiren,Celsius,-22.93
+LOC-7641,Dingzigu,Kelvin,10.09
+LOC-0022,,Celsius,-1.28
+LOC-7850,Chongxing,Celsius,32.07
+LOC-9096,Anthoúsa,Fahrenheit,-30.65
+,Cluain Meala,Celsius,24.53
+LOC-4173,Älvsjö,Fahrenheit,41.01
+LOC-1966,Niyang,Celsius,-27.73
+LOC-1429,Capitán Solari,Celsius,48.3
+LOC-5316,Hezuoqiao,Fahrenheit,
+LOC-2191,Al Qiţena,Fahrenheit,-32.43
+LOC-6860,Tomaszów Lubelski,Celsius,4.4
+LOC-8700,,Kelvin,7.02
+LOC-5382,Salto,Celsius,5.46
+,Taluncemara,Fahrenheit,6.81
+LOC-1658,Nueva Gerona,Fahrenheit,9.61
+LOC-7411,Carmen de Viboral,Fahrenheit,15.23
+LOC-5688,Kylmäkoski,Fahrenheit,13.16
+LOC-8487,Frontignan,Fahrenheit,21.53
+LOC-4272,Luče,Kelvin,35.56
+LOC-8812,Limonade,Kelvin,40.43
+LOC-9640,Unidad,Celsius,33.67
+LOC-6359,Mompós,Kelvin,-22.1
+LOC-1598,Miasteczko Śląskie,,13.12
+LOC-1837,,Fahrenheit,19.4
+LOC-8119,Rautjärvi,Kelvin,15.38
+LOC-4480,Chimichagua,Kelvin,-11.09
+LOC-4978,Baolong,Kelvin,-7.43
+LOC-3808,,Celsius,-39.47
+LOC-0975,Zoumaping,Fahrenheit,-11.97
+LOC-3214,Añatuya,Celsius,-21.99
+LOC-1003,Wassu,Fahrenheit,26.23
+LOC-2205,Ozamiz City,Fahrenheit,44.66
+LOC-6580,Berestechko,Fahrenheit,25.1
+LOC-2713,Paphos,Celsius,-22.14
+LOC-8362,New York City,,1.58
+LOC-9117,João Pessoa,Celsius,-31.13
+LOC-4071,Prachamtakham,Kelvin,33.95
+LOC-6586,,Celsius,-37.54
+LOC-2879,Juren,Fahrenheit,10.44
+LOC-4902,Xiaping,Fahrenheit,5.82
+LOC-8256,Monte Leite,Kelvin,-4.63
+LOC-3998,Hengdian,Celsius,-30.08
+LOC-0002,Thayetmyo,Fahrenheit,18.04
+LOC-9871,Longjiang,Fahrenheit,16.36
+LOC-2750,Mamanguape,Celsius,40.94
+LOC-5205,Foz do Iguaçu,Celsius,23.78
+LOC-6954,Barisan,Fahrenheit,11.2
+LOC-6381,Kawangkoan,Fahrenheit,22.15
+LOC-6282,Yantai,Fahrenheit,16.85
+LOC-8692,Morong,Fahrenheit,38.74
+LOC-3801,Acacías,Fahrenheit,43.37
+LOC-2350,Ćmielów,Kelvin,-12.23
+LOC-4002,Ashbourne,Fahrenheit,
+LOC-5530,Odintsovo,Celsius,25.26
+LOC-1958,Furong,,-34.6
+LOC-5435,Champagnole,,-7.37
+LOC-1103,,Celsius,-0.12
+LOC-0325,Aix-en-Provence,Fahrenheit,-49.98
+LOC-0734,Maastricht,Fahrenheit,42.19
+LOC-9322,Den Chai,Fahrenheit,28.3
+LOC-0834,Saint-Rémy-de-Provence,Kelvin,-12.25
+LOC-2147,Semamung,Kelvin,37.33
+LOC-1226,Maindang,Kelvin,-17.28
+LOC-4944,Alminhas,Kelvin,-36.54
+LOC-1140,Yaguajay,Kelvin,-33.78
+LOC-1239,Březová,Kelvin,-3.16
+LOC-8122,La Motte-Servolex,Fahrenheit,0.56
+LOC-7446,Putukrejo,Kelvin,41.41
+LOC-8332,Medenine,Fahrenheit,12.02
+LOC-6526,Svenljunga,Celsius,20.81
+LOC-5152,Genzi,Celsius,-25.71
+LOC-6704,Salingogan,Fahrenheit,37.84
+LOC-1925,Jocotán,Celsius,40.68
+LOC-9023,Suphan Buri,Kelvin,-48.0
+LOC-4505,Vereya,Kelvin,-4.06
+LOC-7861,San Carlos,Kelvin,45.68
+LOC-4655,Aimin,Kelvin,43.42
+LOC-7829,Luokou,Kelvin,31.22
+LOC-3140,Engel’-Yurt,Fahrenheit,42.72
+LOC-0272,Shaochang,Fahrenheit,14.47
+LOC-4676,Imus,Fahrenheit,-45.17
+LOC-1710,Hezuo,Fahrenheit,-12.7
+LOC-9632,Maukaro,Kelvin,-27.74
+LOC-2589,Rizhao,Celsius,10.97
+LOC-4044,Yinkeng,Fahrenheit,21.74
+LOC-5320,Dhali,Celsius,9.47
+LOC-2800,Sara Kunda,Fahrenheit,24.73
+LOC-3756,Igarapava,Fahrenheit,-38.29
+LOC-3423,Salam,Celsius,7.55
+LOC-3641,Povedniki,Celsius,11.77
+LOC-1959,Mlawe,Kelvin,16.45
+LOC-9786,Gading,Kelvin,23.97
+LOC-3445,Prengtale,Kelvin,27.86
+LOC-9083,Lykóvrysi,Kelvin,-1.3
+LOC-2309,Abengourou,Kelvin,-38.85
+LOC-8373,,Kelvin,32.16
+LOC-2506,Ullulluco,Fahrenheit,-12.28
+LOC-2534,Longshan,Kelvin,-27.33
+LOC-8052,Tagana-an,Celsius,-2.09
+LOC-3242,Agidel’,Celsius,-21.36
+LOC-7929,Junín,Kelvin,-43.83
+LOC-8599,Yinyang,Kelvin,38.91
+LOC-6332,Halmstad,Fahrenheit,-35.8
+LOC-3600,Ban Dung,,10.68
+LOC-3866,Awar-awar,Fahrenheit,41.0
+LOC-3768,Kaustinen,Celsius,36.19
+LOC-7238,Zlatar,Fahrenheit,45.65
+LOC-0861,Cachoeiro de Itapemirim,Celsius,36.37
+LOC-1560,Kabarnet,Celsius,-9.7
+LOC-9603,Gandoang,Fahrenheit,48.46
+LOC-4973,Perené,Kelvin,30.69
+LOC-8726,Abreus,Celsius,23.71
+LOC-4493,Besançon,Fahrenheit,43.1
+LOC-9158,Krajan,Kelvin,-32.03
+LOC-2464,Huaitu,Kelvin,24.37
+LOC-1343,‘Aqrah,Celsius,14.98
+LOC-0586,Metulla,Fahrenheit,-21.65
+LOC-7579,Fandriana,Kelvin,-32.3
+LOC-7846,Bin Yauri,Fahrenheit,-23.51
+LOC-9352,Baro Kunda,Kelvin,-37.8
+LOC-8009,Caringin Lor,Fahrenheit,21.62
+LOC-5961,Hlusk,Kelvin,
+LOC-2576,Cikananga,Kelvin,-23.46
+LOC-3935,Rousínov,Fahrenheit,29.33
+LOC-8225,Yingchuan,Celsius,-41.33
+LOC-5667,Schœlcher,Kelvin,-45.77
+LOC-6602,Petaluma,Kelvin,35.16
+LOC-3674,Tanshan,Fahrenheit,4.58
+LOC-3477,Omboué,Celsius,-20.13
+LOC-0943,Oliveira de Frades,Celsius,-6.33
+,Oliveirinha,Celsius,6.61
+LOC-7966,Vinica,Celsius,16.97
+LOC-1534,Wilmington,Fahrenheit,41.65
+LOC-9004,Vitomarci,Celsius,40.29
+LOC-1802,Nakhon Luang,Celsius,34.89
+LOC-7104,Krzeszów,Fahrenheit,-20.2
+LOC-6232,Canoinhas,Fahrenheit,-12.01
+LOC-5446,Casa Nova,Celsius,-6.29
+LOC-0168,Stříbro,Fahrenheit,-9.29
+LOC-6696,Kitahiroshima,Kelvin,37.57
+LOC-4555,Boyany,Fahrenheit,36.95
+LOC-2983,Apucarana,Kelvin,38.97
+LOC-1426,Xudat,Kelvin,-22.4
+LOC-2090,Basel,Fahrenheit,47.03
+LOC-2863,Hancheng,Celsius,17.59
+LOC-5604,General Levalle,Kelvin,3.01
+LOC-5039,Wonopringgo,Kelvin,-40.03
+LOC-8363,Pedro Carbo,Kelvin,-47.94
+LOC-4502,Mogi das Cruzes,Celsius,-12.04
+LOC-7167,Yimamu,Kelvin,-27.71
+LOC-1871,,Celsius,
+LOC-5764,Anticala,Kelvin,-2.97
+LOC-4445,Hengli,Fahrenheit,-7.92
+LOC-7524,Akriní,,-4.14
+LOC-5978,,Kelvin,-30.1
+LOC-0393,Si’en,Fahrenheit,-37.82
+LOC-5090,Đạ Tẻh,Celsius,30.94
+LOC-8057,Kui Buri,Celsius,-6.55
+LOC-9436,Springfield,Kelvin,49.98
+LOC-7238,Velyka Lepetykha,Kelvin,-23.31
+LOC-6401,Mata de São João,Celsius,-36.15
+LOC-6623,Chociwel,Celsius,-22.47
+LOC-7698,Vykhino-Zhulebino,Fahrenheit,45.8
+LOC-9274,Shiqiao,Kelvin,-33.57
+LOC-3642,Koror,Celsius,13.1
+LOC-9872,Piraí do Sul,Celsius,-9.05
+LOC-5619,,Kelvin,3.06
+LOC-0977,Sumberrejo,Fahrenheit,-31.08
+LOC-7144,Al Mughayyir,Fahrenheit,23.68
+LOC-8657,Valky,Fahrenheit,-47.5
+LOC-2249,Gupakan,Fahrenheit,-4.59
+LOC-8959,Santa Rita,Celsius,-49.59
+LOC-0158,Klatakan,Fahrenheit,-34.73
+LOC-3597,Reshetnikovo,Kelvin,-43.88
+LOC-8659,Ḩammām Damt,Celsius,22.16
+LOC-3351,Oslo,Fahrenheit,-4.77
+LOC-4088,Yuktae-dong,Fahrenheit,47.49
+LOC-6957,Hongyi,Celsius,45.88
+LOC-4568,Pajapita,Fahrenheit,43.96
+LOC-1028,Tāfuna,Fahrenheit,-12.88
+LOC-8696,Dulovo,Celsius,-4.1
+LOC-0277,Unquillo,Kelvin,36.83
+LOC-7102,Menggala,Celsius,-4.09
+LOC-1049,Malešići,Fahrenheit,7.22
+LOC-0500,Ţahţā,Fahrenheit,-44.08
+LOC-1892,Butahai,Kelvin,31.34
+LOC-2352,Okazaki,Celsius,32.4
+LOC-3219,,Celsius,-43.17
+LOC-0284,Beraim,Kelvin,-12.32
+LOC-5769,Zhudian,Fahrenheit,49.0
+LOC-7636,Pará de Minas,Kelvin,-18.95
+LOC-7593,Zhouxi,Kelvin,-44.49
+,Kampungbaru,Kelvin,3.16
+LOC-0894,Kansas City,Kelvin,14.06
+LOC-7652,Tangyu,Fahrenheit,
+LOC-6015,Nayoro,Fahrenheit,46.2
+,Khueang Nai,Fahrenheit,-4.05
+LOC-9304,,Fahrenheit,-44.22
+LOC-3256,,Celsius,-21.89
+LOC-6999,Hongwŏn,Kelvin,-21.46
+LOC-0665,Lysekil,Fahrenheit,
+LOC-6095,Masons Bay,Kelvin,36.62
+LOC-8368,Nkwerre,Kelvin,49.27
+LOC-3563,Betim,Kelvin,8.09
+LOC-7095,Ludwin,Kelvin,28.29
+LOC-4803,Askaniya Nova,Fahrenheit,-45.58
+LOC-4194,Sagara,Celsius,0.98
+LOC-8245,Santa Paz,Kelvin,-44.58
+LOC-5762,Berezanka,,25.68
+LOC-4246,El Coco,Kelvin,-1.91
+LOC-8406,Köln,Celsius,-13.98
+LOC-1125,Don Tan,Celsius,
+LOC-9304,Wujiashan,Fahrenheit,-1.75
+LOC-9003,Pivovarikha,Fahrenheit,
+LOC-0031,Tyrawa Wołoska,Celsius,-37.54
+LOC-5809,Aquin,Celsius,31.14
+LOC-5381,Shuijiang,Celsius,26.43
+LOC-0590,Sanligang,Fahrenheit,15.76
+LOC-3552,Montbéliard,Fahrenheit,-20.98
+LOC-9737,Alīābad,Fahrenheit,-3.88
+LOC-0260,Sumusţā as Sulţānī,Fahrenheit,39.85
+LOC-8320,Alfta,Fahrenheit,-24.18
+LOC-0362,Ciepielów,Kelvin,-7.97
+LOC-3722,Gojō,Fahrenheit,-46.86
+LOC-9028,Yūki,Fahrenheit,26.56
+,Áno Kómi,Celsius,-15.41
+LOC-7055,Wuling,Fahrenheit,40.24
+LOC-6493,Bāmyān,Kelvin,-15.41
+LOC-5148,Nanhe,Celsius,-19.6
+LOC-2509,Bouças,Celsius,25.91
+LOC-4817,Cho-airong,Kelvin,36.52
+LOC-5131,Tiannan,Kelvin,9.21
+LOC-6621,Sepahua,Fahrenheit,29.1
+LOC-6015,Granadero Baigorria,Celsius,-13.39
+LOC-2101,Surazh,Kelvin,17.51
+LOC-2544,Benhao,Kelvin,-22.75
+,Guzhu,Fahrenheit,0.22
+LOC-1228,Hebian,Fahrenheit,-0.85
+LOC-0063,San Miguel,Celsius,-36.11
+LOC-4650,Watuagung,Kelvin,-31.13
+LOC-5334,Wensu,Fahrenheit,4.4
+LOC-1323,Ambatondrazaka,Kelvin,-16.9
+LOC-8134,Panambi,Celsius,30.09
+LOC-3598,Rikitgaib,,32.7
+LOC-1783,Llaillay,Kelvin,37.15
+LOC-0145,Dandai,Fahrenheit,-39.89
+LOC-1650,,Fahrenheit,-36.96
+LOC-2391,Tromsø,Celsius,-11.08
+LOC-3917,Orléans,Fahrenheit,6.6
+LOC-2627,Alor Setar,Kelvin,39.27
+LOC-6058,Yekaterinovka,Kelvin,43.02
+LOC-6455,Koesan,Celsius,18.13
+LOC-5092,Ouahigouya,Celsius,41.83
+LOC-1359,Fengqiao,Celsius,17.85
+LOC-3616,Caparrapí,Kelvin,-30.51
+LOC-3584,Sanbao,Kelvin,-29.48
+LOC-6505,Kanshi,Celsius,-26.5
+LOC-9782,,Kelvin,-2.75
+LOC-3975,Dūkštas,Kelvin,19.5
+LOC-5592,Cerro Punta,Kelvin,-26.6
+LOC-3903,Guicheng,Kelvin,-16.66
+LOC-3019,Agbor,Kelvin,-47.67
+LOC-7479,Huliao,Celsius,39.73
+LOC-2385,Cibatu,Kelvin,-10.89
+LOC-8639,Rosignol,Celsius,-4.59
+LOC-7789,Wojcieszków,Celsius,-2.14
+LOC-0946,Mbaké,Kelvin,-36.45
+LOC-3640,Arboga,Fahrenheit,33.13
+LOC-7847,Brejoeira,Celsius,
+LOC-1811,Aráchova,Celsius,-48.26
+LOC-3169,Fojo,Kelvin,-34.86
+LOC-8885,San Felipe,Kelvin,5.23
+LOC-4199,Alapayevsk,,3.49
+LOC-3624,Lokorae,Kelvin,-30.44
+LOC-7580,Dongning,Kelvin,-42.83
+LOC-0632,Ceranów,Celsius,11.15
+LOC-5102,Bürenhayrhan,Kelvin,18.48
+LOC-7414,Igcocolo,Celsius,45.57
+LOC-8945,Changshengqiao,Fahrenheit,-26.59
+LOC-5424,Taganskiy,Fahrenheit,-28.67
+LOC-9652,Mariatana,Fahrenheit,46.16
+LOC-9128,Anshan,,7.48
+LOC-2356,Bilice,Kelvin,
+LOC-7851,Dajing,Fahrenheit,14.53
+LOC-9336,Pilang,Kelvin,-17.08
+LOC-6338,Vila Verde,Fahrenheit,6.77
+LOC-6024,Wenshui,Celsius,40.32
+LOC-4684,Dalang,Fahrenheit,9.72
+LOC-7819,Austin,Kelvin,36.15
+LOC-1283,Nor Yerznka,Kelvin,35.77
+LOC-9797,Duzhenwan,Celsius,-13.6
+LOC-0327,Sophia Antipolis,Fahrenheit,
+LOC-9988,Golubac,Fahrenheit,-24.59
+LOC-7185,Claresholm,Fahrenheit,-31.63
+LOC-9556,Qīrah,Fahrenheit,-41.0
+LOC-2830,Prachatice,Kelvin,-47.51
+LOC-3888,Xinxing,Kelvin,-45.38
+LOC-3186,San Agustin,Fahrenheit,-14.6
+LOC-1601,Roissy Charles-de-Gaulle,Celsius,-6.51
+LOC-1308,Bojonegoro,Celsius,-30.66
+LOC-4603,Sorochuco,Celsius,-19.45
+LOC-3589,Kayakent,Celsius,-10.61
+LOC-5849,Eqbālīyeh,Fahrenheit,25.0
+LOC-7142,Margahayu,Celsius,-26.05
+LOC-3944,Charleston,Fahrenheit,-47.68
+LOC-1499,Fale old settlement,Celsius,31.73
+LOC-3305,Capâo Bonito,Kelvin,13.25
+LOC-9939,Tsalgar,Fahrenheit,-17.84
+LOC-4364,Gromadka,Fahrenheit,
+LOC-7180,Poniklá,Kelvin,30.57
+LOC-8561,Krmelín,Fahrenheit,18.08
+LOC-1188,Duut,Kelvin,48.61
+LOC-0425,Tuwa,,-22.36
+LOC-2831,Ditsaan,Kelvin,47.7
+,Dachnoye,,28.88
+LOC-5803,Xiaojiezi,Kelvin,
+LOC-2106,Châteauroux,Fahrenheit,41.89
+LOC-8327,Saynshand,Celsius,-37.16
+LOC-9034,Cuozheqiangma,Kelvin,-15.07
+LOC-1271,La Tola,Kelvin,44.25
+LOC-4896,Longyearbyen,Fahrenheit,-3.42
+LOC-7715,Owode,Celsius,10.77
+LOC-7798,Rio de Janeiro,Celsius,22.64
+LOC-9075,Puan Selatan,Celsius,
+LOC-2164,Farkaždin,Celsius,
+,Itapaci,Fahrenheit,-46.66
+LOC-9987,Jagodnjak,Fahrenheit,7.23
+LOC-5712,Bom Jesus da Lapa,Fahrenheit,29.51
+LOC-4166,Täby,Kelvin,3.53
+LOC-4321,Ḩabīl al Jabr,,-14.11
+LOC-1391,Quince Mil,Kelvin,-49.43
+LOC-4694,Zhanghua,Kelvin,-14.63
+LOC-2406,San Lorenzo,Fahrenheit,14.93
+LOC-9724,Redinha,Fahrenheit,-24.73
+LOC-4752,Sakhipur,Kelvin,8.25
+LOC-8205,Polanica-Zdrój,Celsius,18.69
+LOC-1873,El Vigía,Celsius,-12.23
+LOC-4106,Bentar Girang,Fahrenheit,
+LOC-5254,Xinwo,Celsius,
+,Falköping,Celsius,-22.05
+LOC-4897,Lentisqueira,Kelvin,10.51
+LOC-9109,Chynów,Celsius,
+LOC-2488,Siaton,Celsius,5.99
+LOC-1171,Kafr ad Dawwār,Celsius,31.73
+LOC-5905,Novyy Nekouz,Kelvin,22.1
+LOC-9161,Jatisari,Celsius,-28.39
+LOC-5382,Sundbyberg,Kelvin,-32.89
+LOC-5814,Phichit,Celsius,43.11
+LOC-6478,Brudzew,Fahrenheit,-21.91
+LOC-6527,Jambu,Celsius,11.18
+LOC-9238,Cicurug,Celsius,49.21
+LOC-0447,Waikambila,Celsius,-3.37
+LOC-9022,Muyudian,Fahrenheit,20.33
+LOC-7858,São Julião do Tojal,Fahrenheit,45.83
+LOC-1363,Caraballeda,Celsius,-15.43
+LOC-8160,Zhangping,Kelvin,-18.96
+LOC-3918,Xiyang,Fahrenheit,-28.9
+LOC-9129,Presidente Epitácio,Celsius,-39.32
+LOC-6856,Xin’an,Kelvin,-9.18
+LOC-7100,Dongxin,Celsius,10.76
+LOC-8159,Yên Mỹ,,-24.23
+,Red Hill,Kelvin,-16.06
+LOC-5066,Piedrancha,Kelvin,29.66
+LOC-6092,Biaokou,Celsius,-26.94
+LOC-1891,Agrelo,Celsius,-46.19
+,Rosso,Kelvin,-44.58
+LOC-5021,Kalmar,Fahrenheit,-32.64
+LOC-9303,Birendranagar,Celsius,
+LOC-2459,Deqing,Celsius,13.06
+LOC-3268,Hengjie,Fahrenheit,4.69
+LOC-2819,Jati,Kelvin,-36.22
+LOC-2760,Fayzabad,Kelvin,
+LOC-8846,Cidadap,Kelvin,30.11
+,Alamar,Celsius,13.47
+LOC-6007,Boa Vista,Fahrenheit,-3.44
+LOC-1144,,Fahrenheit,3.17
+LOC-2477,Lidong,Kelvin,5.89
+LOC-4557,Guanzhuang,Kelvin,
+LOC-1253,Novi Pazar,,30.06
+LOC-5701,Nizhniy Kislyay,Fahrenheit,30.81
+,Ampelókipoi,Kelvin,
+LOC-5520,Ningtang,Fahrenheit,-16.99
+LOC-0397,Hampang,Kelvin,29.34
+LOC-5486,Heping,Kelvin,34.5
+LOC-2560,Golčův Jeníkov,Kelvin,32.67
+LOC-2452,Sapataria,Kelvin,-5.92
+LOC-6269,Lamego,Fahrenheit,47.82
+LOC-7719,Bolilao,Celsius,-20.69
+LOC-7713,Tangxi,Celsius,49.45
+LOC-8756,Swinford,Celsius,-41.26
+LOC-8484,Kertasari,Fahrenheit,-2.76
+LOC-3819,Kiruna,Fahrenheit,8.02
+LOC-7164,El Kef,Fahrenheit,47.27
+LOC-1217,Yuzhou,Celsius,28.27
+LOC-9891,Zephyrhills,Kelvin,-11.41
+LOC-7027,Sandviken,Celsius,25.23
+LOC-2666,,Fahrenheit,10.28
+LOC-2611,Rogów,Celsius,-46.57
+LOC-1720,Hampton,Celsius,-13.1
+LOC-7975,Oujiangcha,Fahrenheit,22.56
+LOC-2986,Shangyanzhuang,Celsius,-49.86
+LOC-2108,Śliwice,Kelvin,-45.67
+LOC-4356,North Shore,Celsius,35.01
+LOC-3845,Futaleufú,Fahrenheit,-11.2
+LOC-1111,Juliaca,Fahrenheit,45.03
+LOC-1687,Eha Amufu,Kelvin,48.15
+LOC-4742,Lynchburg,Celsius,19.1
+LOC-0557,Kayanza,Kelvin,-18.21
+LOC-5105,Vimieiro,Celsius,23.03
+LOC-2650,Bom Conselho,Celsius,-42.86
+LOC-6030,Ansermanuevo,Celsius,-49.51
+,Zibreira,Fahrenheit,33.91
+LOC-8631,Tucuran,Kelvin,-49.46
+LOC-2376,Lazaro Cardenas,Fahrenheit,-16.52
+LOC-1959,Velenje,Fahrenheit,27.12
+LOC-1846,Częstochowa,Fahrenheit,-24.04
+LOC-2746,Wanhu,Fahrenheit,-5.75
+LOC-0709,Aleksandrovskiy Zavod,Fahrenheit,-8.42
+LOC-0815,,Kelvin,2.57
+LOC-4194,,Kelvin,8.67
+LOC-9546,Shahrak,Celsius,41.3
+LOC-2350,Muquiyauyo,Fahrenheit,
+LOC-0325,Guadalupe Victoria,Celsius,44.86
+LOC-1207,Jāsim,,46.87
+LOC-5498,,Fahrenheit,-5.9
+LOC-8786,Maubasa,Kelvin,-2.63
+LOC-1081,Tanjiaqiao,,41.94
+,Mabini,Celsius,28.62
+LOC-0572,Jibu Hulangtu,Fahrenheit,23.01
+LOC-8660,Eksjö,Celsius,4.74
+LOC-7062,Ḩajjah,Kelvin,21.15
+LOC-2309,Los Juríes,Kelvin,30.68
+LOC-4775,,Kelvin,6.95
+LOC-1898,Datong,Celsius,-31.23
+LOC-7495,Changzheng,Fahrenheit,
+LOC-8225,Landim,Fahrenheit,5.97
+LOC-4103,Yeniköy,Celsius,-30.61
+LOC-3588,Sơn Tịnh,Celsius,31.52
+LOC-9906,Luče,Kelvin,13.33
+LOC-4589,Kuching,Celsius,34.07
+LOC-5143,Muara Sabak,Kelvin,-35.08
+LOC-7996,Hronov,Celsius,-24.48
+LOC-6136,Nanyi,Fahrenheit,28.47
+LOC-4079,,Fahrenheit,39.39
+LOC-2922,Noşratābād,Kelvin,26.43
+LOC-0226,,Fahrenheit,32.08
+LOC-0862,Manyana,Celsius,39.97
+LOC-3331,Lijiazui,Kelvin,32.73
+LOC-0505,Argivai,Celsius,9.98
+LOC-4975,Mondlo,Fahrenheit,-10.38
+LOC-6892,Kanbe,Kelvin,-22.91
+LOC-9548,Sukahening,Fahrenheit,-9.42
+LOC-6681,Dulce Nombre,Kelvin,18.43
+LOC-1305,Bahe,Kelvin,-32.69
+LOC-9081,Florianópolis,Kelvin,-38.45
+LOC-8944,Batangafo,Celsius,7.15
+LOC-5331,Chocos,Kelvin,-28.23
+LOC-8432,Porto Ferreira,Celsius,36.19
+LOC-5556,Bakov nad Jizerou,Celsius,24.8
+LOC-6331,Slovenj Gradec,Celsius,-33.77
+LOC-6603,Buenos Aires,Fahrenheit,37.12
+LOC-2662,Nakajah,Celsius,-20.52
+LOC-1574,Chuanbu,Celsius,-47.39
+LOC-5133,Thoeng,Kelvin,25.45
+LOC-5981,Dassun,Celsius,-13.72
+LOC-9148,Desa Borogojol,Fahrenheit,13.59
+,Novokizhinginsk,Kelvin,47.22
+LOC-9784,Santa Rosa de Copán,Celsius,-23.0
+LOC-6765,Huangbizhuang,Celsius,15.51
+LOC-2593,,Celsius,
+LOC-4539,Noginsk,Celsius,34.67
+LOC-5127,Sidem,Fahrenheit,11.24
+LOC-5388,Zhaxi,Celsius,13.86
+LOC-5347,Litvínovice,Fahrenheit,-24.56
+LOC-8306,Cimanggu,Fahrenheit,-35.76
+LOC-3252,Shahrīār,Fahrenheit,1.1
+LOC-8397,Progreso,Fahrenheit,-24.33
+LOC-3574,Balakhninskiy,Fahrenheit,-3.54
+LOC-6697,Il’ichëvo,Celsius,41.6
+LOC-3941,Dongxi,Celsius,-14.31
+LOC-5781,Zhangshi,Celsius,-39.58
+LOC-6898,Puszczykowo,Celsius,-11.98
+LOC-3737,Sandvika,Celsius,40.87
+LOC-4781,Waxi,Celsius,-43.64
+LOC-3805,Xixiang,Fahrenheit,-32.55
+LOC-0726,Kopen,Kelvin,0.68
+LOC-0622,Dumandesa,Fahrenheit,-10.96
+LOC-9874,Glyadyanskoye,Kelvin,30.64
+LOC-6393,,Celsius,7.98
+LOC-4755,Ravne na Koroškem,Kelvin,40.75
+LOC-7744,,Celsius,28.62
+LOC-4523,Hutang,Fahrenheit,-14.88
+LOC-2749,Imtarfa,Fahrenheit,
+LOC-4168,Porsgrunn,Kelvin,24.29
+LOC-8389,Sicheng,Kelvin,48.96
+LOC-7137,Chengkou,Kelvin,2.2
+,Huazhou,Kelvin,6.14
+LOC-9148,Otaniemi,Kelvin,-48.77
+LOC-4611,Chengxi,,33.54
+LOC-1001,Paombong,Celsius,-34.43
+LOC-0869,Madrid,Celsius,4.22
+LOC-3081,Larvik,Fahrenheit,37.68
+LOC-8769,Cotuí,Kelvin,-43.03
+LOC-9673,,Fahrenheit,-10.81
+LOC-2940,,Kelvin,-22.24
+LOC-4655,La Concepción,Fahrenheit,33.68
+LOC-9563,Pengbu,Kelvin,-16.06
+,El Refugio,Kelvin,-48.54
+LOC-1518,Quirinópolis,Fahrenheit,-17.59
+LOC-1166,Dhībīn,Fahrenheit,-20.21
+LOC-0083,San Carlos,Kelvin,28.43
+LOC-3294,Deshan,Kelvin,31.3
+LOC-8335,Mutang,Fahrenheit,17.11
+LOC-1547,Kiszkowo,Fahrenheit,-8.8
+LOC-3223,Ait Ali,Fahrenheit,-36.39
+LOC-4904,,Fahrenheit,-41.79
+LOC-1559,Mulanje,Fahrenheit,1.69
+LOC-9403,Raszczyce,Fahrenheit,-1.57
+LOC-2916,Óbidos,Kelvin,
+LOC-6128,Alpiarça,Celsius,13.12
+LOC-0005,Yongfeng,Fahrenheit,-4.94
+LOC-2858,Daming,Celsius,-18.12
+LOC-4656,Etinan,Kelvin,-39.19
+LOC-5106,Konongo,Fahrenheit,-27.72
+LOC-7118,,Celsius,-1.05
+LOC-0866,Quiaios,Celsius,44.15
+LOC-7506,Dmitrov,Fahrenheit,14.98
+LOC-2171,Cliza,Fahrenheit,-43.45
+LOC-4136,Brasília de Minas,Kelvin,-5.82
+LOC-0528,Bajomulyo,Fahrenheit,22.0
+LOC-8118,Jablanovec,Fahrenheit,-20.26
+LOC-5642,Coihaique,Kelvin,24.69
+LOC-9720,Anabar,,
+LOC-2637,Krajan Ngerdani,Fahrenheit,-30.93
+LOC-0883,Lincha,,12.14
+LOC-7127,El Paso,Fahrenheit,-28.82
+LOC-2931,Pittsburgh,Kelvin,-48.86
+LOC-5616,Vilémov,Fahrenheit,-16.64
+LOC-9550,Labuhanjambu,,-5.43
+LOC-3894,Rongxing,Celsius,34.38
+LOC-5669,Daireaux,Celsius,10.35
+LOC-2899,Talin Hiag,Kelvin,-37.66
+LOC-7398,Pira,Celsius,-38.28
+LOC-6347,Guayabal,Kelvin,1.57
+LOC-6678,København,Fahrenheit,27.84
+,,Celsius,44.15
